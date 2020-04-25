@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: pl.dmcs
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
